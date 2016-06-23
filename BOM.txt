@@ -1,0 +1,11 @@
+Bill of material
+================
+Arduino Uno
+8x8 LED Matrix module OR MAX7219 plus 64 LEDs plus 24,5k resistor, 100yF and 100nF capacitors
+OLED 0,96" I2C display
+3x 10k pot linear
+2x 1k resistor
+2x 100yF capacitor
+1x 6,5k resistor
+2x jack plugs mono
+24x push button
